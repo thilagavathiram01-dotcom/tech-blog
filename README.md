@@ -4,15 +4,19 @@ Categories: AI Tools & Tutorials · Android Apps & Updates · Technology How-To 
 
 ## Latest article
 
-**[How to Use the September 2026 Android Drop Features](posts/september-2026-android-drop-how-to-use-new-features.md)**
+**[How to Use Google Sheets Canvas to Build Interactive Mini-Apps](posts/how-to-use-google-sheets-canvas-gemini-mini-apps.md)**
 
-- Category: Android Apps & Updates
-- Tags: Android, Gemini, Google Messages, Find Hub
+- Category: AI Tools & Tutorials
+- Tags: Gemini, Google Sheets, Google Workspace, AI tools
 - Published: 2026-09-14
 
 ### SEO
 
-- SEO Title: September 2026 Android Drop: How to Use the 5 New Features
-- Meta Description: A practical guide to the September 2026 Android Drop: Find Hub remembered items, Motion Assist, Gemini Guided vision, Google Keep in Messages, and custom chat themes.
-- URL Slug: september-2026-android-drop-how-to-use-new-features
-- Primary Keyword: September 2026 Android Drop
+- SEO Title: Google Sheets Canvas Tutorial: Build Mini-Apps with Gemini
+- Meta Description: Learn how Google Sheets canvas turns spreadsheet data into interactive mini-apps with Gemini. Step-by-step setup, example prompts, who can use it, and limits.
+- URL Slug: how-to-use-google-sheets-canvas-gemini-mini-apps
+- Primary Keyword: Google Sheets canvas
+
+## Previous articles
+
+- [How to Use the September 2026 Android Drop Features](posts/september-2026-android-drop-how-to-use-new-features.md) — Android Apps & Updates
